@@ -8,6 +8,8 @@ __pycache__/
 
 notebook/
 
+artifact/
+
 # Distribution / packaging
 .Python
 build/
